@@ -20,6 +20,42 @@
                 {
                   "title": "基本流程需要的命令",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"工具/git/基本流程需要的命令.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"工具/git/未命名 1.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "基本流程需要的命令",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"工具/git/基本流程需要的命令.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"工具/git/未命名 1.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "基本流程需要的命令",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"工具/git/基本流程需要的命令.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Diff View (基本流程需要的命令)",
+                  "icon": "git-pull-request",
+                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\"工具/git/基本流程需要的命令.md\",\"staged\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "基本流程需要的命令",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"工具/git/基本流程需要的命令.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":7},\"to\":{\"line\":7,\"ch\":7}}}"
                 },
@@ -154,8 +190,8 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "工具/git/基本流程需要的命令.md",
-                "staged": true
+                "file": "工具/git/git工作流.md",
+                "staged": false
               }
             }
           }
@@ -399,6 +435,7 @@
   "active": "abb3d3a311abb904",
   "lastOpenFiles": [
     "工具/git/基本流程需要的命令.md",
+    "工具/git/未命名 1.md",
     "程序语言/JAVA/容器类的使用.md",
     "程序语言/JAVA/强制类型转换.md",
     "程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md",
@@ -406,7 +443,6 @@
     "程序语言/JAVA/java 中 Object 转 String.md",
     "程序语言/JAVA/12312.md",
     "程序语言/JAVA/java+中+Object+转+String.md",
-    "未命名.md",
-    "CS学习/程序语言/JAVA/容器类的使用.md"
+    "未命名.md"
   ]
 }
