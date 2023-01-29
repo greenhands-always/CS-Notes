@@ -1,2 +1,5 @@
 
 *.class
+*.obsidian
+*.obsidian-temp
+.obsidian/workspace.json
