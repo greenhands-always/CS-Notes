@@ -372,14 +372,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5b65471adfc62eda",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 563.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,7 +398,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d356cab96c3d5c08",
+  "active": "0c719cb64ce045e7",
   "lastOpenFiles": [
     "程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md",
     "程序语言/JAVA/强制类型转换.md",
