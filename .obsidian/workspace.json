@@ -1,0 +1,407 @@
+{
+  "main": {
+    "id": "4e308392685db88e",
+    "type": "split",
+    "children": [
+      {
+        "id": "873c45e8001e3577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d356cab96c3d5c08",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "强制类型转换",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/强制类型转换.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "容器类的使用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/容器类的使用.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/未命名.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "容器类的使用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/容器类的使用.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "java 中 Object 转 String",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/java 中 Object 转 String.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "容器类的使用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序语言/JAVA/容器类的使用.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "java 中 Object 转 String",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/java 中 Object 转 String.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}}}"
+                },
+                {
+                  "title": "Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/未命名.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "容器类的使用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/容器类的使用.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "强制类型转换",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/强制类型转换.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":19},\"to\":{\"line\":39,\"ch\":19}},\"scroll\":2.8201055617559523}"
+                },
+                {
+                  "title": "容器类的使用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/容器类的使用.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/未命名.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "容器类的使用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CS学习/程序语言/JAVA/容器类的使用.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "lab1笔记",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序实战/数据库设计实战/simple-db-hw-2022/lab1笔记.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":6.024096385542169}"
+                },
+                {
+                  "title": "lab1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序实战/数据库设计实战/simple-db-hw-2022/lab1.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "参考文献list",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"程序实战/毕业设计数据库连接池/参考文献list.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"media-view\",\"state\":{\"info\":{},\"currentTime\":0}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程序语言/JAVA/java 中 Object 转 String.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa0c51e5ee95dc26",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7fa5c45b1cc7be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c719cb64ce045e7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e933f8ebe43bdfd0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18bdb82baae6cdf9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "70e9d9f657c0c187",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3b5f13f8b760056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eedf90bd92c2880d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "程序语言/JAVA/java 中 Object 转 String.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0734aa3e444cd07c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "程序语言/JAVA/java 中 Object 转 String.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f895c63e325c8d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "710c774147f3953e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "程序语言/JAVA/java 中 Object 转 String.md"
+              }
+            }
+          },
+          {
+            "id": "3c985e7bab80fac2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3eda3b414154f53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d356cab96c3d5c08",
+  "lastOpenFiles": [
+    "程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md",
+    "程序语言/JAVA/强制类型转换.md",
+    "程序语言/JAVA/容器类的使用.md",
+    "程序语言/JAVA/未命名.md",
+    "程序语言/JAVA/java 中 Object 转 String.md",
+    "CS学习/程序语言/JAVA/容器类的使用.md",
+    "程序实战/数据库设计实战/simple-db-hw-2022/lab1笔记.md",
+    "CS学习/程序语言/JAVA/java 中 Object 转 String.md",
+    "CS学习/程序语言/JAVA/Java 提示找不到或无法加载主类怎么解决？ - 老 K 的 Java 博客.md",
+    "CS学习/程序语言/JAVA/未命名.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "homeNote": "",
+  "publishPath": "/",
+  "enableContext": true,
+  "enableOpenUrl": true,
+  "enableGithub": true,
+  "remoteUrl": "https://github.com/greenhands-always/CS-Personal-Note/",
+  "branch": "master"
+}
