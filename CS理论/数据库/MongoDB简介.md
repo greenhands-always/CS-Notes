@@ -1,0 +1,4 @@
+## MongoDB
+MongoDB 是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。MongoDB 是一个介于关系数据库和非关系数据库之间的产品，是非关系数据库当中功能最丰富，最像关系数据库的。
+
+ <table><tbody><tr><th>SQL 术语 / 概念</th><th>MongoDB 术语 / 概念</th><th>解释 / 说明</th></tr><tr><td>database</td><td>database</td><td>数据库</td></tr><tr><td>table</td><td>collection</td><td>数据库表 / 集合</td></tr><tr><td>row</td><td>document</td><td>数据记录行 / 文档</td></tr><tr><td>column</td><td>field</td><td>数据字段 / 域</td></tr><tr><td>index</td><td>index</td><td>索引</td></tr><tr><td>table joins</td><td>&nbsp;</td><td>表连接, MongoDB 不支持</td></tr><tr><td>primary key</td><td>primary key</td><td>主键, MongoDB 自动将_id 字段设置为主键</td></tr></tbody></table>

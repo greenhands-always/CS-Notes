@@ -1,0 +1,2 @@
+1.  HashMap 不支持并发操作，没有同步方法，ConcurrentHashMap 支持并发操作，通过继承 ReentrantLock（JDK1.7 重入锁）/CAS 和 synchronized (JDK1.8 内置锁) 来进行加锁（分段锁），每次需要加锁的操作锁住的是一个 segment，这样只要保证每个 Segment 是线程安全的，也就实现了全局的线程安全。
+2.  JDK1.8 之前 HashMap 的结构为数组+链表，JDK1.8 之后 HashMap 的结构为数组+链表+红黑树；JDK1.8 之前 ConcurrentHashMap 的结构为 segment 数组+数组+链表，JDK1.8 之后 ConcurrentHashMap 的结构为数组+链表+红黑树。

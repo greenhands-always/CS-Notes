@@ -2,7 +2,6 @@
   "file-explorer",
   "global-search",
   "switcher",
-  "graph",
   "backlink",
   "outgoing-link",
   "tag-pane",
@@ -13,6 +12,7 @@
   "slash-command",
   "editor-status",
   "starred",
+  "random-note",
   "outline",
   "word-count",
   "file-recovery"
